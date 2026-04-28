@@ -1,7 +1,4 @@
-# Complete Guide to Python Data Analysis
-This is the repository for the LinkedIn Learning course `Complete Guide to Python Data Analysis`. The full course is available from [LinkedIn Learning][lil-course-url]. 
 
-![lil-thumbnail-url]
 
 ## Course Description
 
@@ -22,16 +19,5 @@ This repository includes Jupyter notebooks for most of the videos in the course,
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. Start Jupyter notebook in the repository directory.
 
-## Instructor
 
-Michele Vallisneri
-
-Theoretical Astrophysicist at NASA Jet Propulsion Laboratory          
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/michele-vallisneri?u=104).
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/python-data-analysis-24296803
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQGSYAIAZElfSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733965184177?e=2147483647&v=beta&t=OXv45ZLLtcgntIsvH0mJG8ztMyetqZ0fUfscSXvDt50
 
